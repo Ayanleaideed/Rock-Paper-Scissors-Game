@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game
 ## Demo Video
-[Watch the gameplay demo](https://github.com/Ayanleaideed/Rock-Paper-Scissors-Game/blob/main/Demo_Video/Demo.mkv)
+[![Watch the gameplay demo](https://github.com/Ayanleaideed/Rock-Paper-Scissors-Game/blob/main/Demo_Video/DemoThumbnail.png)](https://github.com/Ayanleaideed/Rock-Paper-Scissors-Game/blob/main/Demo_Video/Demo.mkv)
 
 ![Rock-Paper-Scissors](Screenshot-1.png)
 ![Rock-Paper-Scissors](Screenshot-2.png)
