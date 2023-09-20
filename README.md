@@ -7,9 +7,9 @@ This is a simple implementation of the classic Rock-Paper-Scissors game built wi
 
 ## Demo Video
 
-[![Watch the gameplay demo](https://github.com/Ayanleaideed/Rock-Paper-Scissors-Game/blob/main/Demo_Video/DemoThumbnail.png)](https://github.com/Ayanleaideed/Rock-Paper-Scissors-Game/blob/main/Demo_Video/Demo.mkv)
+[![Watch the gameplay demo](https://github.com/Ayanleaideed/Rock-Paper-Scissors-Game/blob/main/Demo_Video/DemoThumbnail.png)](https://github.com/Ayanleaideed/Rock-Paper-Scissors-Game/raw/main/Demo_Video/Demo.mkv)
 
-[Watch the gameplay demo](https://github.com/Ayanleaideed/Rock-Paper-Scissors-Game/blob/main/Demo_Video/Demo.mkv)
+[Watch the gameplay demo](https://github.com/Ayanleaideed/Rock-Paper-Scissors-Game/raw/main/Demo_Video/Demo.mkv)
 
 ## How to Play
 
