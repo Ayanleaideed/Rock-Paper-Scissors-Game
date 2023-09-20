@@ -1,0 +1,77 @@
+body{
+  margin: 12px;
+  background-color: rgba(25, 25, 25, 25);
+  color: white;
+  font-family: cursive;
+  display: inline-block;
+  margin-right: 10px;
+
+}
+
+button{
+  cursor: pointer;
+  padding: 10px 15px;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: large;
+  background-color: white;
+  border: None;
+  border-radius: 18px;
+  margin-right: 10px;
+}
+.button :hover {
+background-color: rgba(2, 32, 111, 1);
+color: whitesmoke;
+opacity: .4ms;
+transition: step-start;
+
+}
+.button-reset:hover{
+  background-color: navy;
+  color: white;
+  opacity: 0.3ms;
+  transition: ease;
+}
+.button-reset:active{
+  opacity: 0.5ms;
+  background-color: yellow;
+  color: blue;
+}
+
+.button:active{
+  opacity: 0.7ms;
+  background-color: yellow;
+  color: blue;
+}
+p{
+  color: whitesmoke;
+  font-size: x-large;
+  font-weight: bolder;
+  font-style: italic;
+
+}
+.button-game{
+  cursor: pointer;
+  padding: 45px;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 2em;
+  background-color: whitesmoke;
+  border: none;
+  border-radius: 60px;
+  align-items: center;
+  align-content: center;
+
+}
+
+.button-game:hover {
+background-color: rgba(2, 32, 111, 1);
+color: whitesmoke;
+opacity: .4ms;
+transition: step-start;
+}
+h1 {
+  text-align: center;
+  font-size: 4rem;
+
+}
